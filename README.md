@@ -1,1 +1,1 @@
-# pokedex-tarea
+# poke-api
